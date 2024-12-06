@@ -4,5 +4,5 @@
 [Scientific Report by Khalil Ganem](/assets/XXX.pdf)
 
 ### Code
-[Code Notebook by Khalil Ganem]([https://colab.research.google.com/drive/XXXXusp=sharing](https://colab.research.google.com/drive/1OIqK5nyV7NOXDuQABKq5jbZgLXkdXvm7?usp=sharing))
+[Code Notebook by Khalil Ganem](https://colab.research.google.com/drive/1OIqK5nyV7NOXDuQABKq5jbZgLXkdXvm7?usp=sharing)
 
