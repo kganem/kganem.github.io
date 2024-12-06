@@ -1,4 +1,4 @@
-**Leveraging Random Forest for Land Use and Land Cover Classification: A Machine Learning Approach in Brazil’s Cerrado**
+**Random Forest-Based Land Use and Land Cover Classification in Brazil's Cerrado**
 
 ### Report
 [Scientific Report by Khalil Ganem](/assets/XXX.pdf)
